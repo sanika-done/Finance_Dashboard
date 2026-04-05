@@ -8,8 +8,8 @@ A clean and interactive Finance Dashboard built using React.js to track transact
 - 📌 Insights like highest spending category and monthly comparison
 - 📱 Fully responsive design
 ## 🛠️ Tech Stack
--React.js
--  JavaScript (ES6+)
+- React.js
+- JavaScript (ES6+)
 - CSS / Tailwind / MUI
 - Chart.js / Rechart
 ## 💡 Project Highlights
